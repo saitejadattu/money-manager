@@ -1,0 +1,70 @@
+/* Write your CSS here */
+.ac-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  padding: 45px;
+}
+.bg-container {
+  padding: 70px;
+}
+.div-orderd-list {
+  margin: 10px;
+}
+.un-orderd-list {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  margin: 10px;
+}
+.un-orderd-list-ul {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.transaction-history {
+  display: flex;
+  padding: 20px;
+}
+.para-form {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.title-input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.amount-input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.form-container {
+  border-radius: 10px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #cffafe;
+  padding: 35px;
+}
+.transaction-item-container {
+  margin-left: 150px;
+  border-radius: 10px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #cffafe;
+  padding: 40px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.text-content {
+  display: flex;
+  border-radius: 10px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #cffafe;
+  margin-top: 0px;
+}
+.text {
+  width: 100px;
+  margin-left: 10px;
+}

@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.green-list-item {
+  border-width: 1px;
+  border-color: #84cc16;
+  border-style: solid;
+  border-radius: 15px;
+  background-color: #ecfccb;
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+}
+.money-image {
+  height: 50px;
+  align-self: center;
+  padding-left: 35px;
+}
+.ur-balance-container {
+  padding-left: 20px;
+  padding-right: 35px;
+}
+.balance-text {
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-bottom: 0px;
+}
+.your-balance {
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  margin-top: 0px;
+}
+.blue-list-item {
+  border-width: 1px;
+  border-color: #06b6d4;
+  border-style: solid;
+  border-radius: 15px;
+  background-color: #cffafe;
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+}
+.voilet-list-item {
+  border-width: 1px;
+  border-color: #7c3aed;
+  border-style: solid;
+  border-radius: 15px;
+  background-color: #ede9fe;
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+}
+.list-div {
+  display: flex;
+  justify-content: space-between;
+}
